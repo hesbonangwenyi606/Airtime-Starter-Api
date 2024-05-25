@@ -1,0 +1,36 @@
+/* index.css */
+
+/* Reset some default browser styles */
+body, h1, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Apply styles to the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+
+/* Style the heading */
+h1 {
+    color: #333;
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* Style the paragraph */
+p {
+    color: #666;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* Style the container */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
