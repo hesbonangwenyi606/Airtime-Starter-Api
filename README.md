@@ -1,5 +1,6 @@
 # Airtime-Starter-Api
-This project provides a Python script to interact with the Airtime Starter API for managing airtime balances.
+Airtime Starter API
+This Python script simplifies interaction with the Airtime Starter API for managing airtime balances. Ideal for developers and businesses, it offers easy access to essential airtime management functions like balance checking and reloading. Simplify your airtime management tasks with this intuitive script.
 
 ## Installation
 
